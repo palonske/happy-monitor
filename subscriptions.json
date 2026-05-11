@@ -1,8 +1,8 @@
 [
   {
-    "name": "Eric",
-    "date": "2026-05-15",
+    "name": "NAME",
+    "date": "",
     "park": "either",
-    "webhook_env": "WEBHOOK_ERIC"
+    "webhook_env": "WEBHOOK_NAME"
   }
 ]
